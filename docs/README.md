@@ -1,2 +1,2 @@
 # Blind-Development
-root
+docs
