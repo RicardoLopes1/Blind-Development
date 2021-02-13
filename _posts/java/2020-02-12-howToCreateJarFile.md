@@ -1,6 +1,13 @@
-> Created by [Ricardo Lopes](https://github.com/RicardoLopes1).
+---
+layout: post
+title: Como criar arquivo executável Java (JAR).
+excerpt: "Como gerar um arquivo executável java com o terminal."
+modified: 12/02/2021, 22:47:21
+tags: [java, teminal, jar, tutorial]
+comments: false
+category: blog
+---
 
-# Table of content - *Tabela de conteúdo*
 - [English](#english);
 - [Português](#português);
 
