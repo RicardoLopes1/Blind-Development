@@ -4,8 +4,8 @@ title: Example Reveal.js Presentation Deck
 excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
 theme: simple
 transition: convex
-tags: [presentation]
-category: apresentacoes
+tags: [apresentações]
+category: apresentações
 ---
 <section data-markdown>
 
