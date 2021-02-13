@@ -5,7 +5,7 @@ excerpt: A sample file showing the correct markup for creating a Reveal.js slide
 theme: simple
 transition: convex
 tags: [apresentações]
-category: apresentações
+category: presentations
 ---
 <section data-markdown>
 

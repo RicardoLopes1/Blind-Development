@@ -1,5 +1,5 @@
 ---
 layout: presentation-post-index
-title: Apresentações
+title: Presentations
 excerpt: "Recent Presentations"
 ---
