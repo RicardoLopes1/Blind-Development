@@ -44,7 +44,7 @@ owner:
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
 #highlight-color: '#CC0000'
-highlight-color: '#DDA0DD' #Plum
+highlight-color: '#1C1C1C' #Gray11
 #lowlight-color: '#000'
 lowlight-color: '#A9A9A9' #DarkGray
 
