@@ -1,12 +1,17 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "Sobre mim..."
+category: inicio
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+Eu me chamo Ricardo. Sou estudante de Engenharia de Computação na Universidade Federal do Ceará - _Campus Quixadá_. 
+Sou fascinado por programação e tecnologia e acredito que a educação nos orienta a ser humanos melhores. 
+Sejam bem-vindos e divirtam-se.
 
-## Current Interests and Projects:
+## Interesses e Projetos Atuais:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- [Github Profile](http://github.com/RicardoLopes1)
+  - [Alerta de nível de bateria](https://github.com/RicardoLopes1/Battery_Monitoring) 
+- [GitHub Pages](http://ricardolopes1.github.io)
+- Sistemas Embarcados
+- Sistemas Distribuídos

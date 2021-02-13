@@ -1,9 +1,9 @@
 # Site navigation links
-- title: Home
+- title: Inicio
   url: /
 
-- title: Presentations
-  url: /presentations/
+- title: Apresentações
+  url: /apresentacoes/
 
 - title: CV
   url: /cv/

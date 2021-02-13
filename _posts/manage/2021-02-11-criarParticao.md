@@ -1,15 +1,12 @@
 ---
 layout: post
 title: Como criar e excluir uma partição no Windows 10
-excerpt: "Como gerar um arquivo executável java com o terminal."
-modified: 13/02/2021, 12:26:21
+excerpt: "Como criar e exluir partições em seu HD / SSD no sistema operacional Windows 10."
+modified: 13/02/2021, 13:14:21
 tags: [partição, windows, tutorial]
 comments: false
 category: blog
 ---
-
-
-# Criando e excluindo uma partição no Windows 10
 
 ## Criando uma nova partição.
 
