@@ -10,7 +10,8 @@ category: blog
 
 - [English](#english);
 - [Português](#português);
-
+- <a href="downloads/java/Makefile" download>Download Makefile</a>;
+- <a href="downloads/java/howToCreateJarFile.pdf" download>Download artigo em PDF</a>;
 
 ## English
 How to create a Java executable file (.Jar) using the terminal.
