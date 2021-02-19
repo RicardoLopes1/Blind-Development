@@ -2,7 +2,7 @@
 layout: post
 title: Como criar arquivo executável Java (JAR).
 excerpt: "Como gerar um arquivo executável java com o terminal."
-modified: 12/02/2021, 22:47:21
+modified: 19/02/2021, 18:34:21
 tags: [java, teminal, jar, tutorial]
 comments: false
 category: blog
@@ -10,8 +10,8 @@ category: blog
 
 - [English](#english);
 - [Português](#português);
-- <a href="downloads/java/Makefile" download>Download Makefile</a>;
-- <a href="downloads/java/howToCreateJarFile.pdf" download>Download artigo em PDF</a>;
+- <a href="https://downgit.github.io/#/home?url=https://github.com/RicardoLopes1/ricardolopes1.github.io/blob/main/downloads/java/Makefile" download>Download Makefile</a>;
+- <a href="https://downgit.github.io/#/home?url=https://github.com/RicardoLopes1/ricardolopes1.github.io/blob/main/downloads/java/howToCreateJarFile.pdf" download>Download artigo em PDF</a>;
 
 ## English
 How to create a Java executable file (.Jar) using the terminal.
