@@ -10,8 +10,8 @@ category: blog
 
 - [English](#english);
 - [Português](#português);
-- <a href="https://downgit.github.io/#/home?url=https://github.com/RicardoLopes1/ricardolopes1.github.io/blob/main/downloads/java/Makefile" download>Download Makefile</a>;
-- <a href="https://downgit.github.io/#/home?url=https://github.com/RicardoLopes1/ricardolopes1.github.io/blob/main/downloads/java/howToCreateJarFile.pdf" download>Download artigo em PDF</a>;
+- <a href="https://github.com/RicardoLopes1/ricardolopes1.github.io/blob/main/downloads/java/Makefile" download>Download Makefile</a>;
+- <a href="https://github.com/RicardoLopes1/ricardolopes1.github.io/blob/main/downloads/java/howToCreateJarFile.pdf" download>Download artigo em PDF</a>;
 
 ## English
 How to create a Java executable file (.Jar) using the terminal.
