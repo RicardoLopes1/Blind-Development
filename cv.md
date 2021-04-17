@@ -7,22 +7,21 @@ Acadêmico em Engenharia de Computação, __Universidade Federal do Ceará - Cam
 
 ## Educação
 
-`2013 - 2015`
-__SENAI__
-Técnico em Mecânica Industrial
-
 `2016 - Hoje`
 __Universidade Federal do Ceará__
 Bacharel em Engenharia de Computação
 
+`2013 - 2015`
+__SENAI__
+Técnico em Mecânica Industrial
+
 ## Publicações
 
-<!-- Para acessar o artigo publicado [clique aqui](https://doi.org/10.5753/wei.2018.3509) -->
+`2018`
+Um Relato de Experiência: Ensinando Robótica por Meio de Microcontroladores em uma Escola Profissional de Ensino Médio, Anais do XXVI Workshop sobre Educação em Computação <br>
+<a href="https://doi.org/10.5753/wei.2018.3509" target="_blank">DOI</a>
 
 ### Journals
-
-`2018`
-Um Relato de Experiência: Ensinando Robótica por Meio de Microcontroladores em uma Escola Profissional de Ensino Médio, Anais do XXVI Workshop sobre Educação em Computação
 
 
 ## Occupação
@@ -49,6 +48,4 @@ __Bolsista PET - Programa de Educação Tutorial__, Universidade Federal do Cear
 
 <!-- ### Footer
 
-Ultima atualização: Fev. 2021 -->
-
-
+Ultima atualização: Abril 2021 -->
