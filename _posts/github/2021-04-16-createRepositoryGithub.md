@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Criando e vinculando seu primeiro repositório no GitHub.
-excerpt: "Como ."
-modified: 16/04/2021, 23:30:10
+excerpt: "Como criar e vincular um repositório no GitHub à uma pasta em seu computador."
+modified: 17/04/2021, 01:18:10
 tags: [github, teminal, repositorio, tutorial]
 comments: false
 category: blog
