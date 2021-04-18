@@ -19,9 +19,9 @@ Técnico em Mecânica Industrial
 
 `2018`
 Um Relato de Experiência: Ensinando Robótica por Meio de Microcontroladores em uma Escola Profissional de Ensino Médio, Anais do XXVI Workshop sobre Educação em Computação <br>
-<a href="https://doi.org/10.5753/wei.2018.3509" target="_blank">DOI</a>
+DOI: <a href="https://doi.org/10.5753/wei.2018.3509" target="_blank"><u>https://doi.org/10.5753/wei.2018.3509</u></a>
 
-### Journals
+<!--  ### Journals -->
 
 
 ## Occupação
@@ -29,9 +29,11 @@ Um Relato de Experiência: Ensinando Robótica por Meio de Microcontroladores em
 `Atualmente`
 __Estudante__, Universidade Federal do Ceará
 
+`08/2020-01/2021`
+__Bolsista PIBIC - Programa Institucional de Bolsas de Iniciação Cientifica__ Universidade Federal do Ceará - _Campus Quixadá_
 
-`2017-2020`
-__Bolsista PET - Programa de Educação Tutorial__, Universidade Federal do Ceará - Campus Quixadá
+`11/2017-08/2020`
+__Bolsista PET - Programa de Educação Tutorial__, Universidade Federal do Ceará - _Campus Quixadá_
 
 - Organização de eventos
   - FLISoL
