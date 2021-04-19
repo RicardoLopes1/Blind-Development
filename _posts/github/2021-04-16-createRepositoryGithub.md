@@ -2,14 +2,14 @@
 layout: post
 title: Criando e vinculando seu primeiro repositório no GitHub.
 excerpt: "Como criar e vincular um repositório no GitHub à uma pasta em seu computador."
-modified: 18/04/2021, 19:45:10
+modified: 18/04/2021, 22:07:10
 tags: [github, teminal, repositorio, tutorial]
 comments: false
 category: blog
 ---
 
 Você iniciou no universo da programação e decidiu usar o [GitHub](https://github.com/) para ser sua plataforma de controle de versão ou simplesmente para armazenar seus códigos na nuvem, mas ainda não sabe como criar e vincular seu repositório à sua pasta com seu projeto em seu computador. Pois nesse artigo vamos lhe ensinar como fazer isso e você irá ver que é algo super simples.<br>
-Primeiro passo é instalar e configurar a ferramenta Git em seu computador, caso não tenha feito isso ainda <a href="../../_posts/github/2021-04-18-InstallAndConfigGit.md" target="_blank"><u>clique aqui</u></a>. Com a ferramenta Git instalada e configurada vamos para os próximos passos.
+Primeiro passo é instalar e configurar a ferramenta Git em seu computador, caso não tenha feito isso ainda <a href="../../blog/InstallAndConfigGit" target="_blank"><u>clique aqui</u></a>. Com a ferramenta Git instalada e configurada vamos para os próximos passos.
 
 - [Criar repositório](#criar-repositório)
 - [Vincular repositório](#vincular-repositório)
