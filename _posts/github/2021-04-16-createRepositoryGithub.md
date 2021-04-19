@@ -72,6 +72,6 @@ Esse comando irá criar um clone do seu repositório em seu computador, ou seja,
 
 <p>
     <img src="../../images/github-logo.png" alt="GitHub" title="GitHub"/>
-  </p>
+</p>
 
   
