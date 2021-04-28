@@ -12,7 +12,6 @@ Após vários _backups_ do seus projetos sempre que você decide modificar o có
 O Git é uma ferramenta para controle de versão usada mundialmente e neste artigo vamos mostrar a instalação e configuração em um sistema operacional Ubunto.<br>
 Para dicas de como instalar em outras distribuições Linux e/ou outros sistemas operacionais acesse: <a href="https://git-scm.com/downloads" target="_blank"><u>Git-SCM</u></a>.
 
-
 Instale o Git com o comando:
 ```shell
 $ sudo apt-get install git
