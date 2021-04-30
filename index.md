@@ -17,4 +17,4 @@ Sejam bem-vindos e divirtam-se.
 - Sistemas Distribuídos
 
 ## CV Lattes
-http://lattes.cnpq.br/6433338989069562
+[http://lattes.cnpq.br/6433338989069562](http://lattes.cnpq.br/6433338989069562)
