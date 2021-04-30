@@ -15,3 +15,6 @@ Sejam bem-vindos e divirtam-se.
 - [GitHub Pages](http://ricardolopes1.github.io)
 - Sistemas Embarcados
 - Sistemas Distribuídos
+
+## CV Lattes
+http://lattes.cnpq.br/6433338989069562
